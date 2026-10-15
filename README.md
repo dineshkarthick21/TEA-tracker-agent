@@ -45,5 +45,4 @@ Set `VITE_API_BASE` to the backend URL when hosting.
 | `gemini_agent.py` | Gemini intent/entity extraction prompt |
 | `telegram_service.py` | Telegram API helpers |
 | `database.py`, `models.py`, `schemas.py` | Database layer |
-| `api/index.py`, `vercel.json` | Vercel entrypoint |
 | `frontend/` | React admin dashboard |
