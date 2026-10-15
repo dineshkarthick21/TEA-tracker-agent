@@ -1,4 +1,3 @@
-frontend
 .env
 __pycache__
 start_tunnel.py
